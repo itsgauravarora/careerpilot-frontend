@@ -374,7 +374,7 @@ const fetchStats = async () => {
        </div>
      ))}
     </div>
-    
+
   );
 }
 
